@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.navbar {
+  background-color: white;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.items {
+  font-weight: 500;
+  font-size: 15px;
+}
+.items:hover {
+  background-color: #dc3545;
+  color: white;
+}
+.cftbutton:hover {
+  background-color: white;
+  color: #dc3545;
+}
+.bgreen:hover {
+  background-color: white;
+  color: green;
+  font-weight: 500;
+}
+.bblue:hover {
+  background-color: white;
+  color: blue;
+  font-weight: 500;
+}
+.codemind {
+  font-family: "Audiowide", sans-serif;
+  font-size: 40px;
+  font-weight: 1000;
+}
+.navItems {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 9px;
+  margin-right: 10px;
+}
+.b {
+  border-radius: 8px;
+  margin-right: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.thub {
+  width: 100%;
+  height: 95vh;
+}
+#upcoming {
+  margin-bottom: 20px;
+  background-color: #e7e8e9;
+  margin-left: 10px;
+  font-weight: 1000;
+}
+.card {
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 700;
+  padding: 30px;
+  border-radius: 5px;
+  margin-left: 20px;
+  border-style: solid;
+  border-color: #e5eaf4;
+  border-width: 5px;
+  height: 200px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.bb {
+  border-radius: 10px;
+}
+.picone {
+  height: 250px;
+  width: 400px;
+}
+.cftheading {
+  font-family: "Roboto";
+  font-size: 40px;
+  padding: 8px;
+  font-weight: 800;
+}
+.cftdesc {
+  padding: 10px;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+}
+.cftbutton {
+  border-radius: 10px;
+  margin: 5px;
+}
+.highlight {
+  font-size: 40px;
+  color: #dc3545;
+  font-weight: 500;
+}
+.cm {
+  font-size: 40px;
+  color: #dc3545;
+  font-weight: 800;
+}
+.pictwo {
+  padding: 50px;
+  height: 450px;
+  width: 500px;
+}
+.highlights {
+  font-size: 40px;
+  color: white;
+  font-weight: 500;
+}
+.t {
+  font-weight: 800;
+}
+.last {
+  background-color: #001f3f;
+  text-align: center;
+}
+.cpy {
+  color: white;
+}
